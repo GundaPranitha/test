@@ -5,3 +5,5 @@ else:
     hungry = input("food required")
     if hungry == "yes":
         print("food required")
+print("required")
+ 
